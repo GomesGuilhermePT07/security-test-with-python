@@ -2,7 +2,7 @@ import requests
 import re
 
 # Configuração
-target_url = "http://localhost:5000"  # Alterar para o URL da aplicação
+target_url = "https:/boutiquedobolo.pt"  # Alterar para o URL da aplicação
 test_endpoints = [
     "/admin", "/config.php", "/backup.sql", "/users", "/.git", "/.env", "/wp-config.php", "/debug", "/phpinfo.php", "/robots.txt", "/sitemap.xml"
 ]

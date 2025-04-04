@@ -1,8 +1,8 @@
 import requests 
-import requests
+import re
 
 # Configuração
-target_url = "https:/site.com" # Alterar para o site alvo
+target_url = "https:/boutiquedobolo.pt" # Alterar para o site alvo
 test_endpoints = [
     "/admin", "/config.php", "/backup.sql", "/users", "/.git", "/.env", "/wp-config.php", "/debug", "/phpinfo.php"
 ]

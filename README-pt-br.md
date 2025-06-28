@@ -70,3 +70,13 @@
   > [!WARNING]\
   > Este tipo de ataques só deve ser feito se você tiver permissão para fazer. Como pode ver, este script contém testes éticos mas eficazes, mas **NÃO** use para atacar servidores ou aplicativos sem autorização. Hacking é uma arte, mas não deve ser usada para maus propósitos ou efeitos, e certamente **NÃO** deve ser usada para estragar ou perturbar o trabalho dos outros.
   Eu **NÃO** sou responsável por qualquer ação ilegal que possa ou não surgir deste repositório. Eu estou simplesmente partilhando um código base para testar sistemas que me foi concedida a permissão de testar. Por isso, eu **NÃO** assumo qualquer responsabilidade por ações tomadas por terceiros, sejam elas individuais e/ou de empresas, que possam ou não usar este script ou parte dele, para propósitos prejudiciais, ilegais, perturbadores, ou outros, causando, intencionalmente ou não, a violação das leis e/ou regulamentos de qualquer país ou região.
+
+<br>
+
+## 📄 Licença
+
+<p>
+  
+  Este projeto é distribuído com a **Licença MIT**. Acesse [LICENSE](https://github.com/dev-ggomes/auto-unfollow-and-remove-follower4-instagram?tab=MIT-1-ov-file) para saber os termos.
+
+</p>

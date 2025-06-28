@@ -77,6 +77,6 @@
 
 <p>
   
-  Este projeto é distribuído ao abrigo da **Licença MIT**. Vê a [Licença](https://github.com/dev-ggomes/security-test-with-python?tab=MIT-1-ov-file) para saberes os termos.
+  Este projeto é distribuído ao abrigo da **Licença MIT**. Vê a [LICENSE](https://github.com/dev-ggomes/security-test-with-python?tab=MIT-1-ov-file) para saberes os termos.
 
 </p>

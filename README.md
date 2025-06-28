@@ -1,7 +1,7 @@
 ## 👨🏽‍💻 Security test with python!
 
 <div align="center">
-  <p>Security teste developed with Python!</p>
+  <p>Security test developed with Python!</p>
 
   ### ✅ How it looks when everything is alright:
   ![image](https://github.com/user-attachments/assets/108227d2-fb4a-49f0-b4ea-a9cb2ee970e7)

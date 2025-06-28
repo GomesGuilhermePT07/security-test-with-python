@@ -1,8 +1,27 @@
-## 👨🏽‍💻 Security test with python!
+<!-- |||||||||||||||||||| EN - PT |||||||||||||||||||| -->
+<p align='center'>
+  <a href="https://github.com/dev-ggomes/auto-refresh-any-site/blob/main/README.md">🇺🇸 English</a> | 
+  <a href="https://github.com/dev-ggomes/auto-refresh-any-site/blob/main/README-pt-pt.md">ᴘᴛ Português</a> | 
+  <a href="https://github.com/dev-ggomes/auto-refresh-any-site/blob/main/README-pt-br.md">🇧🇷 Português</a>
+</p>
+
+<h1 align="center">
+  👨🏽‍💻 Security test with python!
+</h1>
+
+<p align="center">
+  ⭐ If you liked this project, please give it a star
+</p>
+
+<!-- |||||||||||||||||||| SPONSORS & STARS |||||||||||||||||||| -->
+<p align='center'>
+  <a href="https://github.com/sponsors/dev-ggomes"><img alt="Sponsor" src="https://img.shields.io/badge/sponsor-30363D?style=for-the-badge&logo=GitHub-Sponsors&logoColor=#white" /></a>
+  &nbsp;
+  <a href="#"><img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/dev-ggomes/security-test-with-python?style=for-the-badge" /></a>
+</p>
 
 <div align="center">
-  <p>Security test developed with Python!</p>
-
+  
   ### ✅ How it looks when everything is alright:
   ![image](https://github.com/user-attachments/assets/108227d2-fb4a-49f0-b4ea-a9cb2ee970e7)
   ![image](https://github.com/user-attachments/assets/6c2a144f-cca3-4248-b1a0-85ff6ce0a63c)

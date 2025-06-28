@@ -70,3 +70,13 @@
   > [!WARNING]\
   > This type of attack should only be used if you have explicit permission to do so. This is a project containing ethical but efficient tests, as you can see, but DO NOT use it to attack server or applications without proper authorization. Hacking is an art, but it shouldn't be used for malicious purposes, and certainly not to disrupt the work of others.
   I am NOT responsible for any illegal actions that may arise from this project. I am simply sharing a base script I created to test web vulnerabilities on systems I was authorized to test. Therefore, I do NOT take any responsibility for any taken actions caused by third parties, may they be individual and/or companies, that may or may not use the complete above script or part of it, for harmful, illegal, disruptive or other malicious purposes, by so causing, intentionally or unintentionally, the violation of any country laws and/or regulations.
+
+<br>
+
+## 📄 License
+
+<p>
+  
+  This project is distributed under the **MIT License**. Check [LICENSE](https://github.com/dev-ggomes/security-test-with-python?tab=MIT-1-ov-file) for full terms.
+
+</p>

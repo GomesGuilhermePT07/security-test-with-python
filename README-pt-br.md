@@ -77,6 +77,6 @@
 
 <p>
   
-  Este projeto é distribuído com a **Licença MIT**. Acesse [LICENSE](https://github.com/dev-ggomes/auto-unfollow-and-remove-follower4-instagram?tab=MIT-1-ov-file) para saber os termos.
+  Este projeto é distribuído com a **Licença MIT**. Acesse [LICENSE](https://github.com/dev-ggomes/security-test-with-python?tab=MIT-1-ov-file) para saber os termos.
 
 </p>
